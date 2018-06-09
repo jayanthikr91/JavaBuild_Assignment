@@ -146,8 +146,8 @@
 					<server>TomcatServer</server>
 					<url>http://localhost:8080/manager/text</url>
 					<path>/OurBank</path>
-					<username>tomcat</username>
-					<password>tomcat</password>
+					<username>deployer</username>
+					<password>deployer</password>
 					<update>true</update>
 				</configuration>
 			</plugin>
