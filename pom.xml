@@ -160,7 +160,7 @@
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>sonar-maven-plugin</artifactId>
 				<version>3.4.0.905</version>
-				<scope>provided</scope>	
+				<type>pom</type>	
 			</plugin>
 			
 			
